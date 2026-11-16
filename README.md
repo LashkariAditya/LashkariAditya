@@ -1,43 +1,71 @@
 <p align="center">
-  <img src="banner.gif" alt="Aditya Lashkari — software, AI, and creative tools" width="100%" />
+  <img src="banner.gif" alt="Aditya Lashkari — building ideas into software" width="100%" />
+</p>
+
+<p align="center">
+  <a href="#selected-work">Projects</a> ·
+  <a href="#toolbox">Toolbox</a> ·
+  <a href="#github-stats">Stats</a> ·
+  <a href="#connect">Connect</a>
 </p>
 
 <h1 align="center">Hi, I'm Aditya Lashkari</h1>
 
-<p align="center">
-  I build practical AI projects, desktop tools, and web experiences.
-</p>
+<p align="center">Developer from India building practical AI projects, desktop tools, and web experiences.</p>
 
 <p align="center">
-  <a href="https://github.com/LashkariAditya">
-    <img src="https://img.shields.io/badge/GitHub-LashkariAditya-161b22?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="https://www.instagram.com/_aditya_lashkari/">
-    <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <a href="https://github.com/LashkariAditya"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-161b22?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/_aditya_lashkari/"><img src="https://img.shields.io/badge/Instagram-Say%20hello-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <img src="https://komarev.com/ghpvc/?username=LashkariAditya&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-## What I build
+## A little about me
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>Applied AI</h3>
-      <p>Machine learning ideas shaped into practical prototypes, including agriculture and crop planning.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Desktop tools</h3>
-      <p>Playful Windows utilities with thoughtful interactions and customization.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Web experiences</h3>
-      <p>Useful product and music projects built for the browser.</p>
-    </td>
-  </tr>
-</table>
+<details open>
+  <summary><strong>What I like to build</strong></summary>
+  <br />
+  <table>
+    <tr>
+      <td align="center" width="33%"><strong>Applied AI</strong><br />Machine learning prototypes for practical problems, including crop planning.</td>
+      <td align="center" width="33%"><strong>Desktop tools</strong><br />Playful Windows utilities with useful interactions and customization.</td>
+      <td align="center" width="33%"><strong>Web experiences</strong><br />Product and music projects made for the browser.</td>
+    </tr>
+  </table>
+</details>
 
-## Tech I use
+## Selected work
+
+<details open>
+  <summary><strong>🐾 TaskBar Pets</strong> · Animated Windows companions</summary>
+  <br />
+  <p>A desktop companion app with animated pets, interactive features, and a large customizable collection.</p>
+  <p><a href="https://github.com/LashkariAditya/TaskBar-Pets"><img src="https://img.shields.io/github/stars/LashkariAditya/TaskBar-Pets?style=flat-square&label=stars" alt="TaskBar Pets stars" /></a> · Python · Windows</p>
+</details>
+
+<details>
+  <summary><strong>🌱 Crop Advisor</strong> · Agriculture planning prototype</summary>
+  <br />
+  <p>An India-focused project combining crop suitability, soil and weather context, rotation ideas, and farm-budget estimates.</p>
+  <p><a href="https://github.com/LashkariAditya/Crop-Advisor"><img src="https://img.shields.io/github/stars/LashkariAditya/Crop-Advisor?style=flat-square&label=stars" alt="Crop Advisor stars" /></a> · Python · JavaScript · Machine learning</p>
+</details>
+
+<details>
+  <summary><strong>🎧 Aura</strong> · Music web app</summary>
+  <br />
+  <p>A music web application project. <a href="https://aura-music-67.vercel.app/">Open the live demo</a>.</p>
+  <p><a href="https://github.com/LashkariAditya/Aura."><img src="https://img.shields.io/github/stars/LashkariAditya/Aura.?style=flat-square&label=stars" alt="Aura stars" /></a> · JavaScript · Web</p>
+</details>
+
+<details>
+  <summary><strong>🧠 AI Codes</strong> · Python practice and algorithms</summary>
+  <br />
+  <p>Exercises and implementations of classic algorithms and problem-solving examples.</p>
+  <p><a href="https://github.com/LashkariAditya/AI-Codes"><img src="https://img.shields.io/github/stars/LashkariAditya/AI-Codes?style=flat-square&label=stars" alt="AI Codes stars" /></a> · Python</p>
+</details>
+
+<p align="center"><a href="https://github.com/LashkariAditya?tab=repositories">Explore all repositories →</a></p>
+
+## Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -46,72 +74,29 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-## Featured projects
+<a id="github-stats"></a>
+## GitHub stats
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/LashkariAditya/TaskBar-Pets">🐾 TaskBar Pets</a></h3>
-      <p>Animated companions for Windows, with interactive features and a large collection of customizable pets.</p>
-      <a href="https://github.com/LashkariAditya/TaskBar-Pets">
-        <img src="https://img.shields.io/github/stars/LashkariAditya/TaskBar-Pets?style=flat-square&label=stars" alt="TaskBar Pets stars" />
-      </a>
-      <sub>Python · Windows</sub>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/LashkariAditya/Crop-Advisor">🌱 Crop Advisor</a></h3>
-      <p>An India-focused crop-planning prototype with suitability, soil and weather context, rotation ideas, and farm-budget estimates.</p>
-      <a href="https://github.com/LashkariAditya/Crop-Advisor">
-        <img src="https://img.shields.io/github/stars/LashkariAditya/Crop-Advisor?style=flat-square&label=stars" alt="Crop Advisor stars" />
-      </a>
-      <sub>Python · JavaScript · Machine learning</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/LashkariAditya/Aura.">🎧 Aura</a></h3>
-      <p>A music web application project.</p>
-      <a href="https://aura-music-67.vercel.app/">Live demo</a> ·
-      <a href="https://github.com/LashkariAditya/Aura.">
-        <img src="https://img.shields.io/github/stars/LashkariAditya/Aura.?style=flat-square&label=stars" alt="Aura stars" />
-      </a>
-      <sub>JavaScript · Web</sub>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/LashkariAditya/AI-Codes">🧠 AI Codes</a></h3>
-      <p>Python exercises and implementations of classic algorithms and problem-solving examples.</p>
-      <a href="https://github.com/LashkariAditya/AI-Codes">
-        <img src="https://img.shields.io/github/stars/LashkariAditya/AI-Codes?style=flat-square&label=stars" alt="AI Codes stars" />
-      </a>
-      <sub>Python</sub>
-    </td>
-  </tr>
-</table>
+<details>
+  <summary><strong>Show account and language stats</strong></summary>
+  <br />
+  <p align="center"><img src="assets/profile-stats.svg" alt="Public repositories, stars, forks, and followers snapshot" width="100%" /></p>
+  <p align="center"><img src="assets/language-breakdown.svg" alt="Programming language breakdown across public repositories" width="100%" /></p>
+  <p align="center"><img src="https://streak-stats.demolab.com?user=LashkariAditya&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%" /></p>
+</details>
+
+<details>
+  <summary><strong>Explore contribution activity</strong></summary>
+  <br />
+  <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=LashkariAditya&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="100%" /></p>
+</details>
+
+<a id="connect"></a>
+## Connect
 
 <p align="center">
-  <a href="https://github.com/LashkariAditya?tab=repositories">Explore all my repositories →</a>
+  <a href="https://github.com/LashkariAditya">GitHub</a> ·
+  <a href="https://www.instagram.com/_aditya_lashkari/">Instagram</a>
 </p>
-
-## GitHub at a glance
-
-<p align="center">
-  <img src="assets/profile-stats.svg" alt="Public repositories, stars, forks, and followers snapshot" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/language-breakdown.svg" alt="Programming language breakdown across public repositories" width="100%" />
-</p>
-
-## Contribution activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LashkariAditya&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LashkariAditya&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-</p>
-
----
 
 <p align="center"><sub>Always learning. Always building.</sub></p>
