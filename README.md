@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" alt="Aditya Lashkari — building ideas into software" width="100%" />
+  <img src="banner.gif" alt="Aditya Lashkari — AI, desktop, and web projects" width="100%" />
 </p>
 
 <p align="center">
