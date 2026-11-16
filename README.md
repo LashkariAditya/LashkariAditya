@@ -121,8 +121,7 @@
 <details>
   <summary><strong>Show account and language stats</strong></summary>
   <br />
-  <p align="center"><img src="assets/profile-stats.svg" alt="Public repositories, stars, forks, and followers snapshot" width="100%" /></p>
-  <p align="center"><img src="assets/language-breakdown.svg" alt="Programming language breakdown across public repositories" width="100%" /></p>
+  <p align="center"><img src="assets/github-dashboard.svg" alt="Current GitHub repository, star, follower, and language statistics" width="100%" /></p>
   <p align="center"><img src="https://streak-stats.demolab.com?user=LashkariAditya&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%" /></p>
 </details>
 
