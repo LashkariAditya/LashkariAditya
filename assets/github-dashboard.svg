@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="410" viewBox="0 0 920 410" role="img" aria-labelledby="title desc">
+<title id="title">Aditya Lashkari GitHub overview</title>
+<desc id="desc">Public account snapshot checked November 16, 2026: seven public repositories, four stars, zero forks, one follower. Language share by bytes: JavaScript 62.2 percent, Python 30 percent, HTML 4.3 percent, CSS 1 percent, other 2.5 percent.</desc>
+<rect width="920" height="410" rx="18" fill="#0d1117" stroke="#30363d"/>
+<text x="36" y="46" fill="#58a6ff" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">GitHub Stats</text>
+<text x="884" y="44" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12" text-anchor="end">PUBLIC PROFILE · 16 NOV 2026</text>
+<g font-family="Segoe UI,Arial,sans-serif">
+<g><rect x="36" y="68" width="198" height="84" rx="12" fill="#161b22" stroke="#30363d"/><text x="56" y="111" fill="#58a6ff" font-size="29" font-weight="700">7</text><text x="56" y="135" fill="#c9d1d9" font-size="13">Public repositories</text></g>
+<g><rect x="252" y="68" width="198" height="84" rx="12" fill="#161b22" stroke="#30363d"/><text x="272" y="111" fill="#58a6ff" font-size="29" font-weight="700">4</text><text x="272" y="135" fill="#c9d1d9" font-size="13">Stars earned</text></g>
+<g><rect x="468" y="68" width="198" height="84" rx="12" fill="#161b22" stroke="#30363d"/><text x="488" y="111" fill="#58a6ff" font-size="29" font-weight="700">0</text><text x="488" y="135" fill="#c9d1d9" font-size="13">Forks</text></g>
+<g><rect x="684" y="68" width="198" height="84" rx="12" fill="#161b22" stroke="#30363d"/><text x="704" y="111" fill="#58a6ff" font-size="29" font-weight="700">1</text><text x="704" y="135" fill="#c9d1d9" font-size="13">Follower</text></g>
+</g>
+<path d="M36 174H884" stroke="#30363d"/>
+<text x="36" y="211" fill="#58a6ff" font-family="Segoe UI,Arial,sans-serif" font-size="16">Most Used Languages</text>
+<defs><clipPath id="bar"><rect x="36" y="235" width="848" height="18" rx="9"/></clipPath></defs>
+<g clip-path="url(#bar)"><rect x="36" y="235" width="527" height="18" fill="#f1e05a"/><rect x="563" y="235" width="254" height="18" fill="#3572A5"/><rect x="817" y="235" width="36" height="18" fill="#e34c26"/><rect x="853" y="235" width="8" height="18" fill="#563d7c"/><rect x="861" y="235" width="23" height="18" fill="#8b949e"/></g>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="13">
+<circle cx="45" cy="285" r="5" fill="#f1e05a"/><text x="59" y="290" fill="#e6edf3">JavaScript</text><text x="144" y="290" fill="#8b949e">62.2%</text>
+<circle cx="236" cy="285" r="5" fill="#3572A5"/><text x="250" y="290" fill="#e6edf3">Python</text><text x="310" y="290" fill="#8b949e">30.0%</text>
+<circle cx="390" cy="285" r="5" fill="#e34c26"/><text x="404" y="290" fill="#e6edf3">HTML</text><text x="450" y="290" fill="#8b949e">4.3%</text>
+<circle cx="520" cy="285" r="5" fill="#563d7c"/><text x="534" y="290" fill="#e6edf3">CSS</text><text x="570" y="290" fill="#8b949e">1.0%</text>
+<circle cx="638" cy="285" r="5" fill="#8b949e"/><text x="652" y="290" fill="#e6edf3">Other</text><text x="704" y="290" fill="#8b949e">2.5%</text></g>
+<path d="M36 324H884" stroke="#30363d"/>
+<text x="36" y="353" fill="#c9d1d9" font-family="Segoe UI,Arial,sans-serif" font-size="13">Language share is calculated from GitHub-reported bytes across public repositories.</text>
+<text x="36" y="378" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12">Contribution totals, PRs, issues, and streaks are not included because they could not be verified from public profile data.</text></svg>
