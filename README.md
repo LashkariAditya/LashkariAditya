@@ -65,6 +65,37 @@
 
 <p align="center"><a href="https://github.com/LashkariAditya?tab=repositories">Explore all repositories →</a></p>
 
+
+## What I'm exploring
+
+<details>
+  <summary><strong>My building loop</strong> · Discover → Design → Build → Improve</summary>
+  <br />
+  <table>
+    <tr>
+      <td align="center" width="25%"><strong>01 · Discover</strong><br />Find a practical problem worth solving.</td>
+      <td align="center" width="25%"><strong>02 · Design</strong><br />Shape a focused, friendly experience.</td>
+      <td align="center" width="25%"><strong>03 · Build</strong><br />Turn ideas into working software.</td>
+      <td align="center" width="25%"><strong>04 · Improve</strong><br />Learn from feedback and keep refining.</td>
+    </tr>
+  </table>
+</details>
+
+### More projects
+
+| Project | What it explores | Stack |
+| --- | --- | --- |
+| [Crop-Recomandation](https://github.com/LashkariAditya/Crop-Recomandation) | Crop recommendation experiments | Python · ML |
+| [Rajbai](https://github.com/LashkariAditya/Rajbai) | A web project and interface experiments | JavaScript · Web |
+
+## Find your way around
+
+<details>
+  <summary><strong>Quick links</strong> · Projects, code, and activity</summary>
+  <br />
+  <p><a href="https://github.com/LashkariAditya?tab=repositories">Browse all repositories</a> · <a href="https://github.com/LashkariAditya?tab=stars">See starred projects</a> · <a href="https://github.com/LashkariAditya">Follow my GitHub activity</a></p>
+</details>
+
 ## Toolbox
 
 <p align="center">
