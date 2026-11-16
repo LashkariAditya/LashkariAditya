@@ -1,36 +1,66 @@
 <p align="center">
-  <img src="banner.gif" alt="Animated banner: Aditya Lashkari — Software, AI, Creative Tools" width="100%" />
+  <img src="banner.gif" alt="Aditya Lashkari — software, AI, and creative tools" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Aditya Lashkari</h1>
 
 <p align="center">
-  Developer building practical AI, desktop tools, and web experiences.
+  I build practical AI projects, desktop tools, and web experiences.
 </p>
 
 <p align="center">
-  <a href="https://github.com/LashkariAditya">GitHub</a> ·
-  <a href="https://github.com/LashkariAditya?tab=repositories">Projects</a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-## Featured work
+## About
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [TaskBar Pets](https://github.com/LashkariAditya/TaskBar-Pets) | A Windows desktop companion app with animated pets, customization, and interactive features. | Python |
-| [Crop Advisor](https://github.com/LashkariAditya/Crop-Advisor) | An India-focused crop planning prototype combining suitability, weather and soil context, rotation ideas, and farm-budget estimates. | Python, JavaScript |
-| [Aura](https://github.com/LashkariAditya/Aura.) | A music web application. | JavaScript |
+I'm a developer from India interested in turning useful ideas into clear, approachable software. My recent work spans applied machine learning for agriculture, Windows desktop utilities, and web applications.
 
-## What I work with
+## Featured projects
 
-**Languages:** Python, JavaScript, HTML, CSS  
-**Interests:** applied AI, desktop applications, and useful web products
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/LashkariAditya/TaskBar-Pets">TaskBar Pets</a></h3>
+      <p>Animated desktop companions for Windows, with customization and interactive features.</p>
+      <sub>Python · Windows</sub>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/LashkariAditya/Crop-Advisor">Crop Advisor</a></h3>
+      <p>An India-focused crop-planning prototype combining suitability, local soil and weather context, rotation ideas, and farm-budget estimates.</p>
+      <sub>Python · JavaScript · Machine learning</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/LashkariAditya/Aura.">Aura</a></h3>
+      <p>A music web application project.</p>
+      <sub>JavaScript · Web</sub>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/LashkariAditya/AI-Codes">AI Codes</a></h3>
+      <p>Python exercises and implementations of classic algorithms and problem-solving examples.</p>
+      <sub>Python</sub>
+    </td>
+  </tr>
+</table>
 
-## Explore more
+## GitHub at a glance
 
-- [AI Codes](https://github.com/LashkariAditya/AI-Codes) — Python exercises and algorithm implementations.
-- [Crop Recommendation](https://github.com/LashkariAditya/Crop-Recomandation) — an additional crop recommendation project.
-- [Rajbai](https://github.com/LashkariAditya/rajbai) — a product showcase website for international clients.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LashkariAditya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aditya's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LashkariAditya&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+## Connect
+
+<p>
+  <a href="https://github.com/LashkariAditya">GitHub</a> ·
+  <a href="https://www.instagram.com/_aditya_lashkari/">Instagram</a>
+</p>
 
 ---
 
