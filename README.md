@@ -96,6 +96,16 @@
   <p><a href="https://github.com/LashkariAditya?tab=repositories">Browse all repositories</a> · <a href="https://github.com/LashkariAditya?tab=stars">See starred projects</a> · <a href="https://github.com/LashkariAditya">Follow my GitHub activity</a></p>
 </details>
 
+## Languages · Frameworks · Tools · Libraries · Workspace
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,flask,git,github,vscode&theme=dark" alt="Python, JavaScript, HTML, CSS, Flask, Git, GitHub, and Visual Studio Code" />
+</p>
+
+<p align="center">
+  <sub>Technologies shown here are based on the languages and tools used across my public projects.</sub>
+</p>
+
 ## Toolbox
 
 <p align="center">
